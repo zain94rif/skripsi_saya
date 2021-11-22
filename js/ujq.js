@@ -1,0 +1,1 @@
+const hmz = document.getElementById('nd');
